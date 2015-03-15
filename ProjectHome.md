@@ -1,0 +1,1 @@
+for Minix 2.0.4. We are using an existing project of minix, which it has a lot of functionality. Some drivers have poor implementation, and we will try to enhance them if we have time. Basically we will focus on ethernet driver to make the REMOTE DESKTOP. Basically the remote desktop focus on move the mouse and in other computer you can appreciate the movement of the cursor.
